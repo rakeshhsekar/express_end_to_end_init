@@ -1,0 +1,1 @@
+1. You can use command npx express-generator
